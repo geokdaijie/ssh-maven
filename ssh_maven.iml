@@ -15,7 +15,7 @@
         <configuration>
           <fileset id="s2fileset" name="My Fileset " removed="false">
             <file>file://$MODULE_DIR$/src/main/resources/struts.xml</file>
-            <file>jar://$MODULE_DIR$/../../../WorkRuntime/Maven-Repository/org/apache/struts/struts2-core/2.3.20/struts2-core-2.3.20.jar!/struts-default.xml</file>
+            <file>jar://D:/WorkRuntime/Maven-Repository/org/apache/struts/struts2-core/2.3.20/struts2-core-2.3.20.jar!/struts-default.xml</file>
           </fileset>
           <propertiesKeys disabled="false" />
         </configuration>
@@ -111,5 +111,24 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="Maven: org.aspectj:aspectjweaver:1.8.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.shiro:shiro-core:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.6.4" level="project" />
+    <orderEntry type="library" name="Maven: commons-beanutils:commons-beanutils:1.8.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.shiro:shiro-web:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.shiro:shiro-aspectj:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.aspectj:aspectjrt:1.6.12" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.shiro:shiro-cas:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.jasig.cas.client:cas-client-core:3.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.shiro:shiro-ehcache:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: net.sf.ehcache:ehcache-core:2.5.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.shiro:shiro-features:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.shiro:shiro-guice:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:r09" level="project" />
+    <orderEntry type="library" name="Maven: com.google.inject:guice:3.0" level="project" />
+    <orderEntry type="library" name="Maven: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.inject.extensions:guice-multibindings:3.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.shiro:shiro-quartz:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.opensymphony.quartz:quartz:1.6.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.shiro:shiro-spring:1.2.3" level="project" />
   </component>
 </module>
